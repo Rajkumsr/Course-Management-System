@@ -1,0 +1,43 @@
+#div
+{
+    text-align: center;
+    margin: 100px;
+    padding: 50px;
+    background-color:white;
+}
+
+body
+{
+    background-color: blueviolet;
+}
+
+#user:focus
+{
+    border-color: gray;
+}
+
+#pass:focus
+{
+    border-color: gray;
+}
+
+#u 
+{
+    color:red;
+}
+
+#pk
+{
+    color:red;
+}
+
+#btn
+{
+    background-color: blue;
+    color:greenyellow;
+}
+
+#success
+{
+    color:green;
+}
